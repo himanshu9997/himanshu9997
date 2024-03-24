@@ -25,7 +25,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img width="12" />
   <img src="https://i.ytimg.com/vi/lq60Vfa_U4U/maxresdefault.jpg" height="30" alt="DSA logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
