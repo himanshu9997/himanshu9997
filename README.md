@@ -18,13 +18,16 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
 ###
 
 <div align="left">
+
+  <svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
- <img src="your_new_image_link_here" height="30" alt="New Image">
-<img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CSS/CSS-original.svg" height="30" alt="CSS logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="30" alt="C logo"  />
