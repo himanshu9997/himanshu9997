@@ -8,19 +8,6 @@
 - Looking to collaborate in open source projects.
 - I have already participated Hackathon.
 
-###  My Tech Stack
-
-<div align="center">
-
-<a href="https://leetcode.com/Himanshu9997/" target="_blank" rel="noopener noreferrer">
-  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="LeedCode Image">
-</a>
- 
-<img width="200" />
-  
-<a href="https://www.codingninjas.com/studio/profile/HimanshuCode" target="_blank" rel="noopener noreferrer">
-  <img src="https://successinsightsindia.com/wp-content/uploads/2022/02/Coding-Ninjas-Logo.jpg" height="150" padding="10px" alt="codingninjas Image">
-</a>
 
 </div>
 
