@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
-I am a professional Software Engineering from Agra, Uttar Pradesh, India
-<br>
-<br>
+<h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2>
+
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
 - A Software Engineering.
 - Ask me about Open Source & UI Design.
