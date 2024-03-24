@@ -10,7 +10,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="Your Image">
 </a>
 
-<img width="12" />
+<img width="30" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
