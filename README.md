@@ -34,8 +34,8 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/2663himanshu/?hl=en" target="_blank" rel="noopener noreferrer">
-  hii
+  <a href="https://www.instagram.com/2663himanshu/?hl=en" >
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
 </a>
   
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
