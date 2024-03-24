@@ -66,7 +66,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9997&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=FFFFFF)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&langs=c,java,dart,javascript,react,html,css,sql" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu9997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&langs=c,java,javascript,react,html,css,sql" height="150" alt="languages graph"  />
 
 ###
 
