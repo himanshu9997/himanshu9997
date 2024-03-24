@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
 I am a professional Software Engineering from Agra, Uttar Pradesh, India.
-
-<!-- Can I add all this data into this svg file above???!, I want to add it. -->
-
-<!-- Add your introduction or personal statement here -->
+<br>
 
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
 - A Software Engineering.
