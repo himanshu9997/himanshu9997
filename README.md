@@ -10,6 +10,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="Your Image">
 </a>
 
+<img width="12" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
@@ -35,7 +36,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img width="12" />
   <img src="https://static.skillshare.com/uploads/video/thumbnails/b9455fc40a4053509ef0a77b8ddb6a51/original" height="50" alt="C logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
+  <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" height="50" alt="Sql logo"  />
 </div>
 
 ###
