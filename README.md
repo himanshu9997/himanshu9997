@@ -28,7 +28,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img width="12" />
   <img src="https://cdn.mos.cms.futurecdn.net/0a795e0c6e29d02b02aa2903109f07b6-1200-80.jpg" height="30" alt="CSS logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="30" alt="C logo"  />
+  <img src="https://static.skillshare.com/uploads/video/thumbnails/b9455fc40a4053509ef0a77b8ddb6a51/original" height="30" alt="C logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
