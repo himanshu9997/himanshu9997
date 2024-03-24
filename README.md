@@ -5,6 +5,7 @@
 - Ask me about Open Source & UI Design on working. 
 - How to reach me: ayush9997315@gmail.com
 - Looking to collaborate in open source projects.
+- I have already participated Hackathon.
 
 ###  🌐 Socials
 
@@ -59,6 +60,10 @@
 </a>
 
 
+![Narayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=narayan2111&show_icons=true&theme=FFFFFF)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=narayan2111&theme=swift&hide_border=false&bg_color=FFFFFF)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=narayan2111&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=FFFFFF)
 
 
 ###
