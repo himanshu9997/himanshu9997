@@ -12,12 +12,14 @@
 <div align="center">
 
 <a href="https://leetcode.com/Himanshu9997/" target="_blank" rel="noopener noreferrer">
-  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="Your Image">
+  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="LeedCode Image">
 </a>
  
 <img width="100" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<a href="https://www.codingninjas.com/studio/profile/HimanshuCode" target="_blank" rel="noopener noreferrer">
+  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="codingninjas Image">
+</a>
 
 </div>
 
