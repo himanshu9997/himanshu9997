@@ -15,7 +15,7 @@
   <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="LeedCode Image">
 </a>
  
-<img width="100" />
+<img width="200" />
   
 <a href="https://www.codingninjas.com/studio/profile/HimanshuCode" target="_blank" rel="noopener noreferrer">
   <img src="https://successinsightsindia.com/wp-content/uploads/2022/02/Coding-Ninjas-Logo.jpg" height="150" padding="10px" alt="codingninjas Image">
@@ -40,8 +40,6 @@
   <img src="https://th.bing.com/th/id/OIP.CYAMXqfgsWg3Ix91RJbbYAHaHa?w=218&h=218&c=7&r=0&o=5&pid=1.7" height="50" alt="hrml logo"  />
   <img width="12" />
   <img src="https://cdn.mos.cms.futurecdn.net/0a795e0c6e29d02b02aa2903109f07b6-1200-80.jpg" height="50" alt="CSS logo" />
-  <img width="12" />
-  <img src="https://static.skillshare.com/uploads/video/thumbnails/b9455fc40a4053509ef0a77b8ddb6a51/original" height="50" alt="C logo"  />
   <img width="12" />
   <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" height="50" alt="Sql logo"  />
 </div>
