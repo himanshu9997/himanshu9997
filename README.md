@@ -7,7 +7,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
 <div align="center">
 
 <a href="https://leetcode.com/Himanshu9997/" target="_blank" rel="noopener noreferrer">
-  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="200" alt="Your Image">
+  <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="150" padding="10px" alt="Your Image">
 </a>
 
   
