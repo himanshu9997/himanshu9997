@@ -45,14 +45,13 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <a href="https://www.instagram.com/2663himanshu/?hl=en" >
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
 </a>
-  
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+
+<a href="your_new_instagram_link_here" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
+</a>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
