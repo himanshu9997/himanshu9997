@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h2>
+<h2 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h2>
 My name is Himanshu Chaurasiya.
 I am a professional Software Engineering from Agra, Uttar Pradesh, India.
 
