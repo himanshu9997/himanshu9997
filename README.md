@@ -1,4 +1,4 @@
-[![MasterHead]<img align="right" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" height="400" alt="C logo"  />
+<img align="right" src="https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif" height="50" alt="C logo"  />
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
 <h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2>
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" height="400" alt="C logo"  />
