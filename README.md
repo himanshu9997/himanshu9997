@@ -7,7 +7,6 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
 <div align="center">
 
 <a href="https://leetcode.com/Himanshu9997/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=FFFF00&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode">
   <img src="https://th.bing.com/th?id=OIP.tQl87Uu6ExLiN0G77N2howHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="35" alt="Your Image">
 </a>
 
