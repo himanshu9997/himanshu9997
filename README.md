@@ -25,7 +25,8 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.CYAMXqfgsWg3Ix91RJbbYAHaHa?w=218&h=218&c=7&r=0&o=5&pid=1.7" height="30" alt="hrml logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/CSS/CSS-original.svg" height="30" alt="CSS logo"  />
+  <img width="12" />
+  <img src="https://cdn.mos.cms.futurecdn.net/0a795e0c6e29d02b02aa2903109f07b6-1200-80.jpg" height="30" alt="CSS logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/C/C-original.svg" height="30" alt="C logo"  />
   <img width="12" />
