@@ -46,9 +46,10 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.</h2>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram">
 </a>
 
-<a href="https://leetcode.com/ayush9997315/" target="_blank" rel="noopener noreferrer">
+<a href="https://leetcode.com/Himanshu9997/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=LeetCode&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LeetCode">
 </a>
+
 
 
 ###
