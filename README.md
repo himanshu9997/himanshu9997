@@ -7,7 +7,7 @@
 - Looking to collaborate in open source projects.
 - I have already participated Hackathon.
 
-###  🌐 Socials
+###  My Tech Stack
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 </div>
 
-###  My Tech Stack
+<br>
 
 <div align="left">
 
