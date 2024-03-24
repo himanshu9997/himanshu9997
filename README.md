@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h2>
-My name is Himanshu Chaurasiya.
+<h2 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
+
 I am a professional Software Engineering from Agra, Uttar Pradesh, India.
 
 ###
@@ -39,7 +39,7 @@ I am a professional Software Engineering from Agra, Uttar Pradesh, India.
   <img src="https://www.freeiconspng.com/uploads/sql-database-icon-png-17.png" height="50" alt="Sql logo"  />
 </div>
 
-###
+### 🌐 Socials
 
 <div align="left">
   <a href="https://www.linkedin.com/in/himanshu-chaurasiya-6a46a125a/" target="_blank" rel="noopener noreferrer">
