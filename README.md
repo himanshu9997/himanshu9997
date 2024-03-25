@@ -55,10 +55,6 @@
 
 
 
-![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
-
-
-
 
 <h1><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/24d810e7d45dc0526d2aa1b1a72dece408ab8d49/assets/marquee.svg" />
 </h1>
