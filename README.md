@@ -54,12 +54,8 @@
 <a href="https://instagram.com/https://www.instagram.com/2663himanshu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2663himanshu/?hl=en" height="30" width="40" /></a>
 
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://www.svgrepo.com/show/189154/marquee-row.svg" />
 
 
 
 ![github-user-contribution](https://user-images.githubusercontent.com/67040886/206610866-5b4481a4-cdc0-40f2-90d3-f28e76d98eb3.svg#gh-dark-mode-only)
-
-
-
-[![](https://visitcount.itsvg.in/api?id=NitkarshChourasia&label=Profile%20Views&color=0&icon=7&pretty=false)](https://nitkarshchourasia.github.io/)
