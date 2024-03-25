@@ -1,4 +1,5 @@
-![Replace this text](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
+![Header Image](https://media.giphy.com/media/xT1XGJEEqTOVq7IW4g/giphy.gif)
+
 
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
 <h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2>
