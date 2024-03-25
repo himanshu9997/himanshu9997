@@ -35,13 +35,6 @@
 
 </p>
 
-![Himanshu GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu9997&show_icons=true&theme=FFFFFF)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=narayan2111&theme=swift&hide_border=false&bg_color=FFFFFF)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu9997&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact&bg_color=FFFFFF)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu9997&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&langs=c,java,javascript,react,html,css,sql" height="150" alt="languages graph"  />
 
 ###
 
