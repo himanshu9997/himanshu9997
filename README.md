@@ -52,3 +52,6 @@
 <a href="https://twitter.com/himanshuch58449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuch58449" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-chaurasiya-6a46a125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-chaurasiya-6a46a125a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/2663himanshu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2663himanshu/?hl=en" height="30" width="40" /></a>
+
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="./assets/marquee.svg" />
