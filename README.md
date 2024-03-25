@@ -5,8 +5,8 @@
 
 
 
-<h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
-<h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2>
+<h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.<h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2></h1>
+
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" height="200" alt="C logo"  />
 
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
@@ -48,7 +48,7 @@
 
 
 ## <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/himanshuch58449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshuch58449" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-chaurasiya-6a46a125a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-chaurasiya-6a46a125a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/2663himanshu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2663himanshu/?hl=en" height="30" width="40" /></a>
