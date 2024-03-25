@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
 <h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2>
-<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" height="300" alt="C logo"  />
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" height="200" alt="C logo"  />
 
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
   
