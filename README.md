@@ -1,5 +1,8 @@
 
-![github-header-image](https://github.com/himanshu9997/himanshu9997/assets/137139619/6fee246b-9ece-49e3-afd8-be8f1a2bb889)
+<p align="center">
+  <img src="https://github.com/himanshu9997/himanshu9997/assets/137139619/6fee246b-9ece-49e3-afd8-be8f1a2bb889" alt="github-header-image">
+</p>
+
 
 
 <h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.</h1>
