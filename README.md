@@ -5,7 +5,8 @@
 
 
 
-<h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.<h2>I am a professional Software Engineering from Agra, Uttar Pradesh, India</h2></h1>
+<h1 align="center">Hi 👋! Hello, My name is Himanshu Chaurasiya.
+  I am a professional Software Engineering from Agra, Uttar Pradesh, India</h1>
 
 <img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" height="200" alt="C logo"  />
 
