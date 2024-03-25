@@ -54,7 +54,7 @@
 <a href="https://instagram.com/https://www.instagram.com/2663himanshu/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/2663himanshu/?hl=en" height="30" width="40" /></a>
 
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/himanshu9997/himanshu9997/24d810e7d45dc0526d2aa1b1a72dece408ab8d49/assets/marquee.svg" />
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://raw.githubusercontent.com/NitkarshChourasia/NitkarshChourasia/24d810e7d45dc0526d2aa1b1a72dece408ab8d49/assets/marquee.svg" />
 
 
 
