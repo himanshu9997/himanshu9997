@@ -33,8 +33,7 @@
 
 
 ###
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Himanshu9997?ext=contest)
+![](https://leetcard.jacoblin.cool/Himanshu9997?ext=heatmap)
 
 </p>
 
