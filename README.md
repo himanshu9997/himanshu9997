@@ -30,6 +30,9 @@
 <a href="https://www.leetcode.com/https://leetcode.com/himanshu9997/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/himanshu9997/" height="30" width="40" /></a>
   <a href="https://www.codingninjas.com/studio/profile/HimanshuCode" target="Black"><img align="center" src="https://www.bing.com/th?id=OIP.LYN6kZLNCmjKMyIW6fD7FAHaHa&w=98&h=106&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" height="50" width="40" /></a>
 
+  ###
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/Himanshu9997?ext=heatmap)
+
 </p>
 
 
