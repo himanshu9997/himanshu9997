@@ -46,6 +46,11 @@
 [![Nitkarsh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshu9997&theme=chartreuse-dark)](https://github.com/himanshu9997/github-readme-activity-graph)
 
 
+
+##
+![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
+
+
 ## 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
