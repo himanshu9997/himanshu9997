@@ -12,7 +12,9 @@
 
 - I'm a Master's student at Galgotias College of Engineering and Technology, Greater Noida.
   
-- Ask me about Open Source & UI Design on working.
+- Web Development Intern at TULIP;
+
+- My interests are with Web Development Programming, Learning new things NEW, etc..;
   
 - How to reach me: ayush9997315@gmail.com
   
@@ -34,6 +36,8 @@
 
 ###
 ![](https://leetcard.jacoblin.cool/Himanshu9997?ext=heatmap)
+
+
 
 </p>
 
